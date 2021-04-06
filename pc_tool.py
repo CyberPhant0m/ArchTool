@@ -4,6 +4,7 @@ import subprocess
 import time
 from colorama import Fore, Back, Style
 
+#Coded by CyberPhantom - ANONDOOR
 def menu():
     try:
         os.system("clear")
